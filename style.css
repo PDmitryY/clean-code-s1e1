@@ -10,7 +10,7 @@
   display: block;
   text-align: right;
 }
-.matrix-img{
+.matrix-img {
   width: 100%;
 }
 .matrix .matrix-info {
@@ -39,10 +39,12 @@
   margin: 0;
   padding: 0px;
 }
-.task-item, .tasks-title {
+.task-item, 
+.tasks-title {
   list-style: none;
 }
-.input,.btn{
+.input,
+.btn {
   outline: none;
 }
 .btn {
@@ -116,7 +118,7 @@
   font-size: 18px;
   width: 226px;
 }
-.task-item >    .input[type="text"] {
+.task-item > .input[type="text"] {
   width: 226px;
 }
 .delete-btn-img {
